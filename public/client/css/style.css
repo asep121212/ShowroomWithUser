@@ -1,0 +1,40 @@
+:root {
+    --bs-primary: #b6895b;
+}
+
+.btn-primary {
+    background-color: #b6895b !important;
+    border-color: #b6895b !important;
+}
+
+.bg-primary {
+    background-color: #b6895b !important;
+}
+
+.bg-secondary {
+    background-color: #010101 !important;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #010101;
+}
+
+.img-blog {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.img-hero {
+    max-width: 100%;
+    height: 200px;
+    display: block;
+}
+
+.img-cart {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
